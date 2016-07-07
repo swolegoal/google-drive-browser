@@ -4,7 +4,7 @@
 """
 LICENSE
 This program is licensed under the GPLv2 License.  For more information consult
-the included LICENSE file in the the google-drive-browser directory.
+the included LICENSE file in the google-drive-browser directory.
 
 AUTHORS
 Andrew M Rogers
