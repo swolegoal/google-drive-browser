@@ -1,5 +1,9 @@
 # google-drive-browser
 
+About
+---
+This is a demonstration of a graphical file browser for Google Drive using Google's Python client API and a modified version of the easygui library.
+
 Requirements
 ---
 - Python 2.7
@@ -22,6 +26,16 @@ Getting Started
 5. Run the demo with `python2 demo.py`.
 	- If you are having trouble getting authenticated, try running the demo with the `--noauth_local_webserver` argument, instead.
 
-__Note:__ *If the command* `pip2` *does not work on your computer, try* `pip`*, instead.*
+__Note:__ *If the command* `pip2` *does not work on your computer, try running* `pip`*, instead.*
 
+License
+---
+This program is licensed under the GPLv2 License.  For more information consult the included LICENSE file in the google-drive-browser directory.
 
+Authors
+---
+Andrew M Rogers (aka. [tuxlovesyou](https://github.com/tuxlovesyou)).
+
+Notes
+---
+I might add additional features like file uploading and folder creation to this demo in the future.
